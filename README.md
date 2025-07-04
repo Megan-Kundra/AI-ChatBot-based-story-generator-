@@ -5,3 +5,4 @@ Specifics include:
 - java for backend devlopment
 - langchain4j devlopmental libraries for AI integration
   
+As this is a private project, please contact me if you would like to see any specific code sections or implementation details. 
